@@ -1,0 +1,8 @@
+datashader
+holoviews
+hvplot
+dask
+jupyter_bokeh
+numpy
+pandas
+matplotlib
