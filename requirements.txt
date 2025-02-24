@@ -1,3 +1,4 @@
+jupyter-book
 datashader
 holoviews
 hvplot
