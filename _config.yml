@@ -1,4 +1,4 @@
 title: "PSDV Exposition Assignment"
 author: "Dhvani Shah"
 execute:
-  execute_notebooks: "auto"
+  execute_notebooks: "off"
