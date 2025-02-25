@@ -1,0 +1,10 @@
+version: 1
+project:
+  title: PSDV Exposition Assignment
+  authors:
+    - name: Dhvani Shah
+  toc:
+    - file: Datashader_Notebook.ipynb
+site:
+  options: {}
+  template: book-theme

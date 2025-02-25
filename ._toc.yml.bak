@@ -1,5 +1,4 @@
 format: jb-book
 root: Datashader_Notebook
 chapters:
-- file: notebooks
-- file: markdown-notebooks
+- file: Datashader_Notebook.ipynb
