@@ -1,6 +1,7 @@
 version: 1
 project:
   title: PSDV Exposition Assignment
+  jupyter: true
   authors:
     - name: Dhvani Shah
   toc:
