@@ -9,3 +9,5 @@ jupyter_bokeh
 numpy
 pandas
 matplotlib
+pyarrow
+fastparquet
