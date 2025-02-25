@@ -1,4 +1,4 @@
-jupyter-book>=2
+jupyter-book==2.0.0a2
 datashader
 holoviews
 hvplot
