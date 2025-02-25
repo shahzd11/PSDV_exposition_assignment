@@ -1,4 +1,6 @@
 jupyter-book==2.0.0a2
+jupyter-server
+ipykernel
 datashader
 holoviews
 hvplot
